@@ -1,2 +1,0 @@
-# webapp
-WMC.PRO WebApp
