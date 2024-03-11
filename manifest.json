@@ -4,8 +4,8 @@
   "description": "World Millionaire Challenge",
   "start_url": "https://webapp.wmc.pro/index.html?launcher=homescreen",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "background_color": "#000000",
   "icons": [
     {
       "src": "https://webapp.wmc.pro/android-icon-36x36.png",
